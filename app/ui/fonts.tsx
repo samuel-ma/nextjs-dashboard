@@ -1,6 +1,6 @@
-import { Inter, Space_Grotesk } from "next/font/google";
+import { Manrope, Space_Grotesk } from "next/font/google";
 
-export const inter = Inter({ subsets: ["latin"] });
+export const inter = Manrope({ subsets: ["latin"] });
 
 export const lusitana = Space_Grotesk({
     subsets: ["latin"],
